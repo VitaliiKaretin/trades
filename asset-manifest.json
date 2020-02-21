@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ForceF1/trades/static/css/main.f4bae363.chunk.css",
+    "main.js": "/ForceF1/trades/static/js/main.543ca2dd.chunk.js",
+    "main.js.map": "/ForceF1/trades/static/js/main.543ca2dd.chunk.js.map",
+    "runtime-main.js": "/ForceF1/trades/static/js/runtime-main.381902aa.js",
+    "runtime-main.js.map": "/ForceF1/trades/static/js/runtime-main.381902aa.js.map",
+    "static/js/2.b02ed86e.chunk.js": "/ForceF1/trades/static/js/2.b02ed86e.chunk.js",
+    "static/js/2.b02ed86e.chunk.js.map": "/ForceF1/trades/static/js/2.b02ed86e.chunk.js.map",
+    "index.html": "/ForceF1/trades/index.html",
+    "precache-manifest.48d681fe874840a02e521e6d0152bf1f.js": "/ForceF1/trades/precache-manifest.48d681fe874840a02e521e6d0152bf1f.js",
+    "service-worker.js": "/ForceF1/trades/service-worker.js",
+    "static/css/main.f4bae363.chunk.css.map": "/ForceF1/trades/static/css/main.f4bae363.chunk.css.map",
+    "static/js/2.b02ed86e.chunk.js.LICENSE.txt": "/ForceF1/trades/static/js/2.b02ed86e.chunk.js.LICENSE.txt",
+    "static/media/eth.png": "/ForceF1/trades/static/media/eth.e2f499bf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.381902aa.js",
+    "static/js/2.b02ed86e.chunk.js",
+    "static/css/main.f4bae363.chunk.css",
+    "static/js/main.543ca2dd.chunk.js"
+  ]
+}
