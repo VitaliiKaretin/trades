@@ -1,0 +1,100 @@
+.trades-content {
+  .trade-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 15px 5px 0;
+    .trade-info {
+      display: flex;
+      align-items: center;
+      flex-direction: row;
+      .coin {
+        margin-right: 10px;
+      }
+      .trade-descr {
+        text-align: left;
+        .title {
+          color: #10254b;
+          font-weight: 500;
+          font-size: 15px;
+        }
+        .subtitle {
+          color: #484747;
+          font-weight: 300;
+          font-size: 14px;
+        }
+      }
+    }
+    .trade-amount {
+      font-weight: 700;
+      font-size: 15px;
+      &.positive {
+        color: #15e92f;
+      }
+      &.negative {
+        color: #fb5f67;
+      }
+    }
+    & + .trade-item {
+      border-top: 1px solid #eee;
+    }
+  }
+}
+
+.react-tabs {
+  -webkit-tap-highlight-color: transparent;
+  height: calc(var(--vh, 1vh) * 100 - 240px);
+  padding: 0 20px;
+}
+
+.react-tabs__tab-list {
+  margin: 0 0 10px;
+  padding: 0;
+}
+
+.react-tabs__tab {
+  display: inline-block;
+  bottom: -1px;
+  position: relative;
+  list-style: none;
+  margin: 6px 32px;
+  cursor: pointer;
+  font-size: 15px;
+  font-weight: 300;
+  padding-bottom: 6px;
+}
+
+.react-tabs__tab--selected {
+  color: #10254b;
+  font-weight: 500;
+  border-bottom: 1px solid #10254b;
+  padding-bottom: 6px;
+}
+
+.react-tabs__tab--disabled {
+  color: GrayText;
+  cursor: default;
+}
+
+.react-tabs__tab:focus {
+  box-shadow: none;
+  outline: none;
+}
+
+.react-tabs__tab-panel {
+  display: none;
+  height: 100%;
+  overflow: scroll;
+  border-radius: 20px;
+  background: #FFFFFF;
+  box-shadow: 3px 3px 13px -4px #556efa5c;
+  .tab-content {
+    padding: 10px 0 10px 20px;
+    border-radius: 20px;
+  }
+}
+
+.react-tabs__tab-panel--selected {
+  display: block;
+}

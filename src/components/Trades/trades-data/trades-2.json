@@ -1,0 +1,80 @@
+[
+  {
+    "exchangeTitle": "ETH - USD",
+    "exchangename": "exchangename",
+    "coin": "ETH",
+    "amount": 21.88
+  },
+  {
+    "exchangeTitle": "BTC - USD",
+    "exchangename": "exchangename",
+    "coin": "BTC",
+    "amount": 2.88
+  },
+  {
+    "exchangeTitle": "ETH - EUR",
+    "exchangename": "exchangename",
+    "coin": "ETH",
+    "amount": 5.98
+  },
+  {
+    "exchangeTitle": "BTC - USD",
+    "exchangename": "exchangename",
+    "coin": "BTC",
+    "amount": -12.88
+  },
+  {
+    "exchangeTitle": "ETH - USD",
+    "exchangename": "exchangename",
+    "coin": "ETH",
+    "amount": 105.88
+  },
+  {
+    "exchangeTitle": "BTC - ETH",
+    "exchangename": "exchangename",
+    "coin": "BTC",
+    "amount": -2.88
+  },
+  {
+    "exchangeTitle": "ETH - USD",
+    "exchangename": "exchangename",
+    "coin": "ETH",
+    "amount": 52.88
+  },
+  {
+    "exchangeTitle": "BTC - EUR",
+    "exchangename": "exchangename",
+    "coin": "BTC",
+    "amount": 98.88
+  },
+  {
+    "exchangeTitle": "BTC - EUR",
+    "exchangename": "exchangename",
+    "coin": "BTC",
+    "amount": -42.88
+  },
+  {
+    "exchangeTitle": "BTC - USD",
+    "exchangename": "exchangename",
+    "coin": "BTC",
+    "amount": 4.88
+  },
+  {
+    "exchangeTitle": "BTC - USD",
+    "exchangename": "exchangename",
+    "coin": "BTC",
+    "amount": 2.88
+  },
+  {
+    "exchangeTitle": "BTC - USD",
+    "exchangename": "exchangename",
+    "coin": "BTC",
+    "amount": 37.88
+  },
+  {
+    "exchangeTitle": "ETH - USD",
+    "exchangename": "exchangename",
+    "coin": "ETH",
+    "amount": 25.88
+  }
+]

@@ -1,0 +1,39 @@
+.header {
+  padding: 10px 20px 0;
+  &-top-panel {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .menu-burger {
+      font-size: 28px;
+      cursor: pointer;
+    }
+    .btc-info {
+      text-align: left;
+      color: #10254b;
+      p {
+        margin: 0;
+        font-size: 25px;
+        font-weight: 400;
+        &:first-child {
+          font-size: 13px;
+          font-weight: 300;
+        }
+      }
+    }
+  }
+  .header-actions {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: 10px;
+    & > * {
+      margin: 0 3px;
+    }
+    .sort {
+      font-size: 40px;
+      color: #10254b;
+    }
+  }
+}

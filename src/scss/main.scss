@@ -1,0 +1,30 @@
+@import "buttons";
+@import "tabs";
+@import "header";
+
+body {
+  margin: 0;
+  height: 100vh;
+  font-family: 'Montserrat', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #eaf4ff;
+}
+
+#root {
+  height: 100%;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  .trades-content {
+    flex: 1 1 85%;
+    margin-top: 20px;
+    max-height: 85%;
+  }
+  .header {
+    flex: 0 1 15%;
+  }
+}
