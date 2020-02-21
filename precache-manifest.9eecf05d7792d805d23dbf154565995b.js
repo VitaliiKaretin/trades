@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2a611ed43725df1c65289743a2912cc6",
+    "revision": "db1306d8227868ba91e2ba81501a5f78",
     "url": "/ForceF1/trades/index.html"
   },
   {
-    "revision": "e5e98480e7e594d939ea",
+    "revision": "fddf143e2e9e65248510",
     "url": "/ForceF1/trades/static/css/main.f4bae363.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ForceF1/trades/static/js/2.37cfda85.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e5e98480e7e594d939ea",
-    "url": "/ForceF1/trades/static/js/main.91222256.chunk.js"
+    "revision": "fddf143e2e9e65248510",
+    "url": "/ForceF1/trades/static/js/main.6cc00335.chunk.js"
   },
   {
     "revision": "edafd07f1dc4650c8521",

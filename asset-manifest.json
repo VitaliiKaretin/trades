@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ForceF1/trades/static/css/main.f4bae363.chunk.css",
-    "main.js": "/ForceF1/trades/static/js/main.91222256.chunk.js",
-    "main.js.map": "/ForceF1/trades/static/js/main.91222256.chunk.js.map",
+    "main.js": "/ForceF1/trades/static/js/main.6cc00335.chunk.js",
+    "main.js.map": "/ForceF1/trades/static/js/main.6cc00335.chunk.js.map",
     "runtime-main.js": "/ForceF1/trades/static/js/runtime-main.381902aa.js",
     "runtime-main.js.map": "/ForceF1/trades/static/js/runtime-main.381902aa.js.map",
     "static/js/2.37cfda85.chunk.js": "/ForceF1/trades/static/js/2.37cfda85.chunk.js",
     "static/js/2.37cfda85.chunk.js.map": "/ForceF1/trades/static/js/2.37cfda85.chunk.js.map",
     "index.html": "/ForceF1/trades/index.html",
-    "precache-manifest.f8589af8a77759161fe1fd59f48c189e.js": "/ForceF1/trades/precache-manifest.f8589af8a77759161fe1fd59f48c189e.js",
+    "precache-manifest.9eecf05d7792d805d23dbf154565995b.js": "/ForceF1/trades/precache-manifest.9eecf05d7792d805d23dbf154565995b.js",
     "service-worker.js": "/ForceF1/trades/service-worker.js",
     "static/css/main.f4bae363.chunk.css.map": "/ForceF1/trades/static/css/main.f4bae363.chunk.css.map",
     "static/js/2.37cfda85.chunk.js.LICENSE.txt": "/ForceF1/trades/static/js/2.37cfda85.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.381902aa.js",
     "static/js/2.37cfda85.chunk.js",
     "static/css/main.f4bae363.chunk.css",
-    "static/js/main.91222256.chunk.js"
+    "static/js/main.6cc00335.chunk.js"
   ]
 }
